@@ -11,6 +11,12 @@ module.exports = {
       github: {
         link: `https://github.com/aihackervn`,
       },
+      kaggle: {
+        link: `https://www.kaggle.com/myncoder0908`,
+      },
+      linkedin: {
+        link: `https://www.linkedin.com/in/t%C3%ADn-v%C3%B5-b2a055231/`,
+      },
     },
   },
   plugins: [
