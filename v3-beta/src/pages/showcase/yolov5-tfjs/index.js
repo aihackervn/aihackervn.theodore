@@ -210,7 +210,7 @@ const YOLOv5OD = () => {
             />
             <canvas
               width={640}
-              height={360}
+              height={640}
               style={{
                 display: webcam === "open" || lcimage === "open" ? "block" : "none",
               }}
